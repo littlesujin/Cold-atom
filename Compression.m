@@ -1,3 +1,4 @@
+%%% 牛牛github空间
 function [ Output ] = Compression( Control, Timeslots, phys )
 m   = Control.m;
 hb  = Control.hb;
